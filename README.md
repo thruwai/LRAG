@@ -1,2 +1,2 @@
 # LRAG
-Light RAG
+Dark RAG
